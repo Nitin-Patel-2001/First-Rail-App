@@ -1,1 +1,1 @@
-Complete Ruby Course 
+First App By Nitin Patel on Ruby On Rails
